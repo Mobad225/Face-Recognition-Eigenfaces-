@@ -1,0 +1,2 @@
+# Face-Recognition-Eigenfaces-
+This is a basic face recognition program, It is trained on a small dataset and gave good results in identifying the people, PCA and LDA were used to reduce the dimensions and find the most common (Eigenfaces) and then a basic KNN classifier was used to predict the result of each test record. This project is to familiarize with PCA, LDA, KNN Classifier and Some Python libaries. 
